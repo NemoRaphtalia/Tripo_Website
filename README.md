@@ -1,36 +1,77 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌍 Tripo Website
 
-## Getting Started
+A modern, responsive travel website built with **Next.js**, **TypeScript**, and **Tailwind CSS**.  
+This project showcases destinations, hotels, reviews, and more with a clean UI and smooth user experience.
 
-First, run the development server:
+---
 
-```bash
+## ✨ Features
+- 🏖️ Beautiful landing page with travel destinations  
+- 🏨 Hotel listings and details  
+- 📰 News and blog section  
+- ⭐ Customer reviews and testimonials  
+- 📱 Fully responsive design for mobile, tablet, and desktop  
+- ⚡ Built with **Next.js** for fast performance  
+
+---
+
+## 🚀 Live Demo
+Check out the live site here:  
+👉 [Tripo Website on Vercel](https://tripo-website.vercel.app/)  
+
+---
+
+## 🛠️ Tech Stack
+- [Next.js](https://nextjs.org/) – React framework for production  
+- [TypeScript](https://www.typescriptlang.org/) – Strongly typed JavaScript  
+- [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS framework  
+- [Vercel](https://vercel.com/) – Hosting & deployment  
+
+---
+
+## 📦 Getting Started
+
+### 1. Clone the repo
+git clone https://github.com/NemoRaphtalia/Tripo_Website.git
+cd Tripo_Website
+
+### 2. Install dependencies
+npm install
+
+### 3. Run development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Then open 👉 http://localhost:3000 to see it in action.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 4. Build for production
+npm run build
+npm start
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🤝 Contributing
 
-## Learn More
+Contributions are welcome!
+- Fork the repo
+- Create a new branch (git checkout -b feature-branch)
+- Commit your changes (git commit -m "Add new feature")
+- Push to your branch and open a Pull Request
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📄 License
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+This project is licensed under the MIT License – feel free to use it for your own projects.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Special Mentions
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Special thanks to WebDevWarriors Youtube Channel for teaching and guiding me in this project through his videos.
+
+---
+
+## 👨‍💻 Author
+
+Daniel Nallapalli
+
+---
