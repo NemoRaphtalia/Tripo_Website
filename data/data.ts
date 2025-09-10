@@ -146,7 +146,7 @@ export const reviewData = [
   },
   {
     id: 2,
-    name: "Jane Smith",
+    name: "Jack Smith",
     review:
       "I am thoroughly impressed with the attention to detail and quality. They truly understand customer needs and deliver outstanding results. Wonderful experience!",
     image: "/images/u2.jpg",
@@ -160,7 +160,7 @@ export const reviewData = [
   },
   {
     id: 4,
-    name: "Emily Davis",
+    name: "Bruno Davis",
     review:
       "Outstanding results! The team was efficient, and their professionalism was remarkable. Everything was done perfectly. I highly recommend their expertise to everyone.",
     image: "/images/u1.jpg",
@@ -174,7 +174,7 @@ export const reviewData = [
   },
   {
     id: 6,
-    name: "Sarah Johnson",
+    name: "Sandy Johnson",
     review:
       "Fantastic experience! They listened carefully to my requirements and delivered exactly what I needed. Their attention to detail is truly commendable.",
     image: "/images/u3.jpg",
@@ -188,7 +188,7 @@ export const reviewData = [
   },
   {
     id: 8,
-    name: "Sophia White",
+    name: "Felix White",
     review:
       "Five-star service from start to finish! The dedication and skill of the team made all the difference. Truly an exceptional experience I won’t forget.",
     image: "/images/u2.jpg",
